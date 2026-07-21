@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/logo/logo.svg" width="150" alt="Fudio OS Logo">
+</p>
+
+<h1 align="center">Fudio OS</h1>
+
+<p align="center">
+Modern Open-Source Restaurant Operating System
+</p>
 # Fudio-OS
 Premium AI-powered Restaurant SaaS for cafes and restaurants.
 🍽️ Fudio OS
