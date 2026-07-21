@@ -1,1 +1,12 @@
-
+assets/
+├── logo/
+│   ├── logo.svg
+│   ├── logo-dark.svg
+│   ├── logo-light.svg
+│   └── favicon.svg
+├── banner/
+│   └── github-banner.png
+└── screenshots/
+    ├── dashboard.png
+    ├── orders.png
+    └── analytics.png
