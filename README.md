@@ -7,8 +7,6 @@
 <p align="center">
 Modern Open-Source Restaurant Operating System
 </p>
-# Fudio-OS
-Premium AI-powered Restaurant SaaS for cafes and restaurants.
 🍽️ Fudio OS
 
 <p align="center">
@@ -58,7 +56,7 @@ Whether you run a café, cloud kitchen, food truck, or multi-branch restaurant, 
 
 - Customer database
 - Loyalty system
-- Order history
+- Order center
 - Personalized offers
 
 📊 Analytics
